@@ -6,6 +6,7 @@ function App() {
         justifyContent: "center",
         alignItems: "center",
         minHeight: "100vh",
+        backgroundColor: "#f2f2f2",
       }}
     ></div>
   );
