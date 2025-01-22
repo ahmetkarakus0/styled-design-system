@@ -1,6 +1,6 @@
 import { ColorType } from "../../theme/colors";
 
-export interface CheckboxProps {
+export interface RadioButtonProps {
   color?: ColorType;
   label?: string;
 }

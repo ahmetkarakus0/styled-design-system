@@ -6,3 +6,4 @@ export { default as CardImage } from "./Card/CardImage/CardImage";
 export { default as Checkbox } from "./Checkbox/Checkbox";
 export { default as Chip } from "./Chip/Chip";
 export { default as Input } from "./Input/Input";
+export { default as RadioButton } from "./RadioButton/RadioButton";
