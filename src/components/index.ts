@@ -10,3 +10,4 @@ export { default as RadioButton } from "./RadioButton/RadioButton";
 export { default as Select } from "./Select/Select";
 export { default as Tabs } from "./Tabs/Tabs";
 export { default as Toggle } from "./Toggle/Toggle";
+export { default as Typography } from "./Typography/Typography";
